@@ -1,2 +1,2 @@
 # Extracting_Data
-Extracting data fro various means
+Extracting data from various means
